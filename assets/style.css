@@ -1,8 +1,8 @@
 /* root setup */
 
 /* here we import the Lexend font from Google fonts. You can browse other fonts at https://fonts.google.com/*/
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+</style>
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
   --white: #ffffff;
@@ -67,7 +67,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/hero_open_source1.jpg"); 
+  background-image: url("./images/hero2.jpg"); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(214, 196, 107, 0.447);
+  background-color: rgba(236, 220, 138, 0.447);
   height: 100%;
 }
 
@@ -84,6 +84,7 @@ h1 {
   padding: 0;
   align-self: center;
   text-align: center;
+  color: var(--white)
 }
 
 /* carousel articles */
@@ -205,8 +206,12 @@ main strong {
 
 main img {
   max-width: 100%;
+ 
 }
-
+ #content img {
+  display: block;
+  margin: 0 auto;
+}
 .outOfFocusArt {
   width: 15%;
   font-weight: 100;
