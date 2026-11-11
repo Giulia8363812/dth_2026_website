@@ -2,7 +2,7 @@
 // It reads the page name from the address (index.html?page=page_two),
 // loads pages/page_two.md, shows it on the page, and counts its characters.
 
-const pageName = new URLSearchParams(window.location.search).get("page") || "page_one";
+const pageName = new URLSearchParams(window.location.search).get("page") || "page_zero";
 const file = "./pages/" + pageName + ".md";
 
 // Give the page an id with its name, so style.css can style one page, e.g. #page_two h2 { ... }

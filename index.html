@@ -12,7 +12,7 @@
   <body>
     <header>
       <div id="navBar" class="flex defaultPageMargin">
-        <a class="blueText" href="./index.html">DTH class template</a>
+        <a class="blueText" href="./index.html?page=page_zero">HOME</a>
         <nav>
           <ul class="flex">
             <!-- to add a page: create pages/my_page.md and add a link with ?page=my_page -->
@@ -36,18 +36,24 @@
         <div id="carouselMain" class="flex">
           <article class="carouselArt outOfFocusArt" data-artID="1">
             <h2>Advantages</h2>
-            <img src="./assets/images/hero_open_source2.jpg" alt="article 1 banner image" />
-            <p>Here's the most important advantages of Open Source Software.</p>
+            <a href="./index.html?page=page_one">
+              <img src="./assets/images/hero_open_source2.jpg" alt="article 1 banner image" />
+            </a>
+            <p>Click here to see the advantages of Open Source Software!</p>
           </article>
           <article class="carouselArt inFocusArt" data-artID="2">
             <h2>Disadvantages</h2>
-            <img src="./assets/images/hero3.jpg" alt="article 2 banner image" />
-            <p>Here's the most important disadvantages of Open Source Software.</p>
+            <a href="./index.html?page=page_two">
+              <img src="./assets/images/hero3.jpg" alt="article 2 banner image" />
+            </a>
+            <p>Click here to see the disadvantages of Open Source Software!</p>
           </article>
           <article class="carouselArt outOfFocusArt" data-artID="3">
             <h2>Project</h2>
-            <img src="./assets/images/orange_logo3.png" alt="article 3 banner image" />
-            <p>Here's an example project of Open Source Software.</p>
+            <a href="./index.html?page=page_three">
+              <img src="./assets/images/orange_logo3.png" alt="article 3 banner image" />
+            </a>
+            <p>Here's an example project of Open Source Software!</p>
           </article>
         </div>
         <div id="carouselBtnContainer" class="flex">
