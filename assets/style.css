@@ -372,3 +372,6 @@ h3 {
   color: var(--yellow);
   font-size: 9.5rem;
 }
+#page_zero #charCount {
+  display: none;
+}
