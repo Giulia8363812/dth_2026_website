@@ -32,4 +32,5 @@ A concrete example is my thesis project in European Studies, in which I will ana
 ### Sources:
 - *https://cc.au.dk/en/cdmm/tools-and-tutorials/data-analysis/orange-data-mining*
 - *https://orangedatamining.com/*
+- *https://github.com/biolab/orange3/graphs/contributors?from=08%2F08%2F2026*
 
