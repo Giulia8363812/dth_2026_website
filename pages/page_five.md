@@ -1,4 +1,4 @@
-# My New Page Title
+# Assignment 3
 
 ## Section heading
 
