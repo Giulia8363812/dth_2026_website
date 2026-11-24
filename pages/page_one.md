@@ -17,7 +17,7 @@
 
 ![openaccess](./assets/images/open_access_orange.png)
 
-### Sources:
+## References
  - *https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/*
  - *https://opensource.guide/*
 

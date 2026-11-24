@@ -13,6 +13,6 @@ Open Source Softwares also presents some *less positive* aspects, creating **dis
 
 - **Compatibility issues:** Many proprietary hardware uses specific drivers to run open source softwares, which are often available exclusively from the device manufacturer, making the open source softwares not perform at the same level as proprietary hardware.
 
-### Sources:
-*https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software*
+## References
+- *https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software*
 

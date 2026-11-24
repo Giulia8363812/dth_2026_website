@@ -29,7 +29,7 @@ The official website also provides detailed tutorials on how to use the software
 ### A research example: 
 A concrete example is my thesis project in European Studies, in which I will analyze data related to gender equality in European institutions: through Orange Data Mining program, it would be possible for me to import a large dataset containing information on the composition of the various European Commissions and create visualizations showing the proportion of women and men in leadership positions, identifying trends over time. This program would help make the process more streamlined and efficient, reducing the risk of confusion and errors.
 
-### Sources:
+## References
 - *https://cc.au.dk/en/cdmm/tools-and-tutorials/data-analysis/orange-data-mining*
 - *https://orangedatamining.com/*
 - *https://github.com/biolab/orange3/graphs/contributors?from=08%2F08%2F2026*
